@@ -1,3 +1,7 @@
+Create recursive triangle pattern using OpenGL library.
+
+To Compile files:
+
 DOTS
 Enter Command:
 	g++ sierpinski.cpp -o sie -lglut -lGLU -lGL
